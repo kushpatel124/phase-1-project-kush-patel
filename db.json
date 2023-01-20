@@ -1,0 +1,49 @@
+{
+  "info": [
+    {
+      "name": "Elon Musk",
+      "company": "Twitter",
+      "position": "CEO",
+      "phone": "1112223333",
+      "email": "elon@twitter.com",
+      "imageUrl": "./People/Elon-Musk.jpg",
+      "id": 1
+    },
+    {
+      "name": "Amy Hood",
+      "company": "Microsoft",
+      "position": "CFO",
+      "phone": "3334445555",
+      "email": "amy@microsoft.com",
+      "imageUrl": "./People/Amy-Hood.jpg",
+      "id": 2
+    },
+    {
+      "name": "Tim Regan",
+      "company": "Dropbox",
+      "position": "CFO",
+      "phone": "5556667777",
+      "email": "tim@dropbox.com",
+      "imageUrl": "./People/Tim-Reagan.jpg",
+      "id": 3
+    },
+    {
+      "name": "Logan Green",
+      "company": "Lyft",
+      "position": "CEO",
+      "phone": "7778889999",
+      "email": "logan@lyft.com",
+      "imageUrl": "./People/Logan-Green.jpg",
+      "id": 4
+    },
+    {
+      "name": "Ryan Roslansky",
+      "company": "Linkedin",
+      "position": "CEO",
+      "phone": "9990001111",
+      "email": "ryan@linkedin.com",
+      "imageUrl": "./People/Ryan-Roslansky.jpg",
+      "id": 5
+    }
+  ]
+}
