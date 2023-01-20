@@ -12,23 +12,26 @@ This project provides a user to input basic information to generate a business c
 
 ## Project Screen Shot
 
+![Alt text](https://lh6.googleusercontent.com/fFD_QJRuw5PvdVxmn9LU8lE6K69uulW9V9xtfM2Qm666gJT4Pv3oMfAR_4sNlD5hZvM=w2400 "Optional title")
+
+![Form Screenshot](/ReadMe/Form.jpg "Form")
+
+![Form Screenshot](./ReadMe/Form.jpg "Form")
+
 <img
-  src="./ReadMe/Website.jpg"
+  src="https://lh6.googleusercontent.com/fFD_QJRuw5PvdVxmn9LU8lE6K69uulW9V9xtfM2Qm666gJT4Pv3oMfAR_4sNlD5hZvM=w2400"
   alt="Website Screenshot"
-  title="Website"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  title="Website">
 
 <img
   src="./ReadMe/Form.jpg"
   alt="Form Screenshot"
-  title="Form"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  title="Form">
 
 <img
   src="./ReadMe/Cards.jpg"
   alt="Business Cards Screenshot"
-  title="Business Cards"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  title="Business Cards">
 
 ## Dependencies
 
